@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio</title>
-    <link>https://hugo-profile.netlify.app/</link>
+    <link>https://ahmad-ilyas.netlify.app/</link>
     <description>Recent content on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://hugo-profile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ahmad-ilyas.netlify.app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
