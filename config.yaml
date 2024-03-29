@@ -152,7 +152,7 @@ params:
     image: "/images/next.jpg"
     content: |-
       I'm Ahmad Ilyas, your friendly neighborhood tinkerer currently diving into the world of Electronics and Communication Engineering at Zakir Husain College of Engineering and Technology, Aligarh Muslim University. With a passion for making stuff that borders on obsession, I'm all about robotics, especially when it involves building RC planes that may or may not fly straight (but hey, it's the journey, right?). And let's not forget my addiction to 3D printing—there's just something about turning digital dreams into tangible objects! From soft actuators to analog electronics and embedded systems, I'm like a kid in a candy store, except the candy is technology, and I'm here to munch on it all. Whether I'm concocting new robots or attempting homemade chocolate chip cookies (because why not add a sprinkle of sweetness to engineering?), you can bet I'm always cooking up something exciting.
-           
+
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -239,39 +239,31 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Bachelor Of Technology (Electronics and Communication)"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          name: "Zakir Husain College of Engineering and Technology, AMU"
+          url: "https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology"
+        date: "2022 - present"
+        GPA : "9.35 out of 10 (Currently)"
+        
+      - title: "Senior Secondary School (+2)"
         school:
-          name: "Massachusetts Institute of Technology"
+          name: "Saiyyid Hamid Senior Secondary School, AMU"
           url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+        date: "2020-2022"
+        GPA: "95.2%"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          PCM + Computer Science
+          
         featuredLink:
           enable: true
           name: "My academic record"
           url: "https://example.com"
-      - title: "High School"
+      - title: "Secondary School (10th grade)"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
+          name: "St. Fidelis Sr. Sec. School"
           url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+        GPA: "97.4%"
         featuredLink:
           enable: true
           url: "https://example.com"
